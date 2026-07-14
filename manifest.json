@@ -1,0 +1,38 @@
+{
+  "name": "طب نبوی ﷺ - 50 علاج",
+  "short_name": "Tib e Nabwi",
+  "description": "قرآن و حدیث کی روشنی میں 50 روحانی اور جسمانی علاج",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#E8F5E9",
+  "theme_color": "#0A5C36",
+  "orientation": "portrait-primary",
+  "lang": "ur",
+  "dir": "rtl",
+  "categories": ["health", "medical", "education", "religion"],
+  
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
